@@ -20,3 +20,5 @@ missing module => pip3 install ____
 set of requirements (any .txt file something like "requirements.txt") pip3 install -r requirements.txt
 mk = make / dir = directory /= mkdir = create directory
 .sh = ./ (or) sh ____.sh // use for bash programs ( bash ____.sh)
+tar -xf = unpacking tar.gz files/folders into the same directory t "tar -xf _____.tar.gz
+unzip "foldername" = unzipping and unoacking folder in same dir ".zip" or ".gz" files can be unzipped
