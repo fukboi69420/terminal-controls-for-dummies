@@ -30,3 +30,4 @@ mk = make / dir = directory /= mkdir = create directory
 tar -xf = unpacking tar.gz files/folders into the same directory t "tar -xf _____.tar.gz
 unzip "foldername" = unzipping and unoacking folder in same dir ".zip" or ".gz" files can be unzipped
 chmod +x _____.exe && ./_____.exe = to execute exe file in a directory (must be in specified dir to run)
+Docker pull Dockerfile or any other docker presets = pull requirements and prebuilt setup // docker-compose Makefile = run Makefile
