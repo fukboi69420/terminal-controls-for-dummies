@@ -1,9 +1,14 @@
-___________                  .__              .__    _________                                           .___      
-\__    ___/__________  _____ |__| ____ _____  |  |   \_   ___ \  ____   _____   _____ _____    ____    __| _/______
-  |    |_/ __ \_  __ \/     \|  |/    \\__  \ |  |   /    \  \/ /  _ \ /     \ /     \\__  \  /    \  / __ |/  ___/
-  |    |\  ___/|  | \/  Y Y  \  |   |  \/ __ \|  |__ \     \___(  <_> )  Y Y  \  Y Y  \/ __ \|   |  \/ /_/ |\___ \ 
-  |____| \___  >__|  |__|_|  /__|___|  (____  /____/  \______  /\____/|__|_|  /__|_|  (____  /___|  /\____ /____  >
-             \/            \/        \/     \/               \/             \/      \/     \/     \/      \/    \/
+  ______                    _             __
+ /_  __/__  _________ ___  (_)___  ____ _/ /
+  / / / _ \/ ___/ __ `__ \/ / __ \/ __ `/ /
+ / / /  __/ /  / / / / / / / / / / /_/ / /
+/_/  \___/_/  /_/ /_/ /_/_/_/ /_/\__,_/_/
+
+   ______                                          __
+  / ____/___  ____ ___  ____ ___  ____ _____  ____/ /____   _
+ / /   / __ \/ __ `__ \/ __ `__ \/ __ `/ __ \/ __  / ___/  (_)
+/ /___/ /_/ / / / / / / / / / / / /_/ / / / / /_/ (__  )  _
+\____/\____/_/ /_/ /_/_/ /_/ /_/\__,_/_/ /_/\__,_/____/  (_)
 
 terminal commands:
 **make sure you are in home** (should look like this "user@cs-____________-default:/home$
@@ -27,7 +32,14 @@ missing module => pip3 install ____
 set of requirements (any .txt file something like "requirements.txt") pip3 install -r requirements.txt
 mk = make / dir = directory /= mkdir = create directory
 .sh = ./ (or) sh ____.sh // use for bash programs ( bash ____.sh)
-tar -xf = unpacking tar.gz files/folders into the same directory t "tar -xf _____.tar.gz
+tar -xf = unpacking tar (tar.gz) files/folders into the same directory t "tar -xf _____.tar.gz
 unzip "foldername" = unzipping and unoacking folder in same dir ".zip" or ".gz" files can be unzipped
 chmod +x _____.exe && ./_____.exe = to execute exe file in a directory (must be in specified dir to run)
 Docker pull Dockerfile or any other docker presets = pull requirements and prebuilt setup // docker-compose Makefile = run Makefile
+To get added programs = apt-get install _____ (usually requires root) (def: $"sudo apt-get install _____"
+sudo apt-get helpful programs such as 
+neofetch: system info
+lolcat: make your terminal colourful
+figlet: simple ascii art
+nmap: nmap scanning ( use after install nmap "git clone https://github.com/nmap/nmap.git && ./configure && make && make install"
+--help can be used for more parameters to be used by such programs (i.e. "neofetch --help")
