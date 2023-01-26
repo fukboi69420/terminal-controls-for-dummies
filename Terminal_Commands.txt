@@ -17,7 +17,7 @@ cd = change directory // cd change to default directory| cd .. = go back one dir
 git clone = copy repo of git directory (how you get shit to use in terminal)
 sudo/sudo su = run with elevated priveleges
 blue text = directory (use cd to get in)
-sudo -s = run terminal as ROOT (anything done in ROOT is usually *permanent*)
+sudo -s = run terminal as ROOT
 exit = to exit out of root, useful if you aren't needing root or do not want to exicute commands in root
 ls = check what's inside your terminal
 rm = remove => rm -rf / = remove file /home/(filename) *cannot remove directories*
