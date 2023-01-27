@@ -1,0 +1,37 @@
+The above text is a list of various terminal commands and their uses. Some of the commands include:
+
+cd: change directory
+
+git clone: copy a repository from a git directory
+
+sudo/sudo su: run a command with elevated privileges
+
+ls: list the contents of a directory
+
+rm: remove a file
+
+rmdir: remove a directory
+
+php: execute a .php file in the terminal
+
+setup.py: run the setup script for a python package
+
+Ctrl+C: cancel a running command
+
+pip3 install: install a python package
+
+mkdir: create a new directory
+
+.sh: execute a bash script
+
+tar -xf: extract a tar archive
+
+unzip: unzip a .zip file
+
+chmod +x: make a file executable
+
+Docker pull: pull a pre-built container image
+
+apt-get install: install a program on a Debian-based Linux system
+
+Additionally, the text mentions some specific programs that can be installed using apt-get, such as neofetch, lolcat, figlet, and nmap. These programs provide various functionality such as system information, colorful terminal output, and network scanning. The text also reminds to use --help to get more parameters for the command.
